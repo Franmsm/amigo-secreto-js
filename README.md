@@ -7,9 +7,10 @@ Aplicación para jugar al Amigo Secreto mediante sorteo alteatorio🔮.
 
 
 📌 Cómo funciona
-1. Ingresa los nombres de los participantes haciendo clic en el botón "Añadir".
-2. Una vez hayas agregado a todas tus amistades presiona el botón "Sortear amigo".
-3. ¡Listo! Verás al amigo/a secreto sorteado.
+1. Ingresar los nombres de los participantes en el input de texto.
+2. Hacer clic en el botón "Añadir".
+3. Una vez agregados todos los nombres, hacer clic en el botón "Sortear amigo".
+4. ¡Listo! Verás al amigo/a secreto sorteado en pantalla
 
 👍Características
 - Agregar amigos/as a la lista evitando que nombres se repitan.
