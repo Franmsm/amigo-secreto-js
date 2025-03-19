@@ -3,6 +3,9 @@
 Aplicación para jugar al Amigo Secreto mediante sorteo alteatorio🔮.
 <p>Proyecto realizado para curso #oraclenexteducation.</p>
 
+![Descripción de la imagen](assets/Captura%20de%20pantalla%20Amigo%20Secreto.png)
+
+
 📌 Cómo funciona
 1. Ingresa los nombres de los participantes haciendo clic en el botón "Añadir".
 2. Una vez hayas agregado a todas tus amistades presiona el botón "Sortear amigo".
